@@ -8,7 +8,7 @@
     <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
   </picture>
   <picture>
-  	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
+  	<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yfh19VV.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WF96E9W.png">
     <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
   </picture>
@@ -23,10 +23,10 @@
     <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
   </picture>
   <picture>
-    <img alt="Spline" src="https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48">
+    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
   </picture>
   <picture>
-    <img alt="Spline" src="https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48">
+    <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
   </picture>
   <span>༻</span>
 </h1>
