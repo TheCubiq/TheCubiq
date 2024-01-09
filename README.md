@@ -22,15 +22,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
     <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
   </picture>
-  <picture>
-    <source srcset="https://i.imgur.com/e6a3t4p.png">
-    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/0VASlKm.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/0VASlKm.png">
-    <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
-  </picture>
+  <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
+  <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
   <span>༻</span>
 </h1>
   
