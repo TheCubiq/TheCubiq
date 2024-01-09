@@ -1,16 +1,44 @@
-### Hi there 👋
+<!-- # <p  align="center"> ༺  ![:vizzy: ](https://cdn.discordapp.com/emojis/855518015553929236.png?quality=lossless&size=48 ) ![:arcWhite:](https://i.imgur.com/in6Uqg3.png ) ![:svelte:](https://cdn.discordapp.com/emojis/764128238225195059.png?quality=lossless&size=48) ![:cloudkid:](https://i.imgur.com/LGnaTIz.png) ![:fedoraslay:](https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48) ![:spline:](https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48) ༻ </p> -->
 
+<h1 align="center">
+  <span>༺</span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
+    <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
+  </picture>
+  <picture>
+  	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WF96E9W.png">
+    <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ov46xih.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YSsNujB.png">
+    <img alt="Svelte" src="https://i.imgur.com/ov46xih.png">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
+    <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
+  </picture>
+  <picture>
+    <img alt="Spline" src="https://cdn.discordapp.com/emojis/1114124802014322749.png?quality=lossless&size=48">
+  </picture>
+  <picture>
+    <img alt="Spline" src="https://cdn.discordapp.com/emojis/887386191412998164.png?quality=lossless&size=48">
+  </picture>
+  <span>༻</span>
+</h1>
+  
 <!--
-**TheCubiq/TheCubiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary>my popular gists:</summary>
 
-Here are some ideas to get you started:
+# <p  align="center"> [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=71f1152be6d8a5c8b6038db39a915d74)](https://gist.github.com/TheCubiq/71f1152be6d8a5c8b6038db39a915d74) </p><p  align="center">[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=b647e03b5d411a5df1d447dbe80ac298)](https://gist.github.com/TheCubiq/b647e03b5d411a5df1d447dbe80ac298) </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</details>
 -->
+  
+
+# <p  align="center"> ![:name](https://count.getloli.com/get/@TheCubiq) </p>
+
