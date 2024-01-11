@@ -2,28 +2,40 @@
 
 <h1 align="center">
   <span>༺</span>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
-    <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
-  </picture>
+  <a href="https://vizzy.cubiq.dev" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5n98woC.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/NovXoL9.png">
+      <img alt="Vizzy" src="https://i.imgur.com/5n98woC.png">
+    </picture>
+  </a>
+  <a href="https://arc.net/" target="_blank">
   <picture>
   	<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yfh19VV.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WF96E9W.png">
     <img alt="Arc Browser" src="https://cdn.discordapp.com/emojis/1016905341218328596.png?quality=lossless&size=48">
   </picture>
+  </a>
+  <a href="https://svelte.dev/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ov46xih.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YSsNujB.png">
     <img alt="Svelte" src="https://i.imgur.com/ov46xih.png">
   </picture>
+  </a>
+  <a href="https://www.youtube.com/cloudkid" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gZKi6iH.png">
     <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/foCaUio.png">
     <img alt="Cloudkid" src="https://i.imgur.com/gZKi6iH.png">
   </picture>
-  <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
-  <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
+  </a>
+  <a href="https://fedoraproject.org/" target="_blank">
+    <img alt="Fedora-slay" src="https://i.imgur.com/e6a3t4p.png">
+  </a>
+  <a href="https://spline.design/" target="_blank">
+    <img alt="Spline" src="https://i.imgur.com/0VASlKm.png">
+  </a>
   <span>༻</span>
 </h1>
   
