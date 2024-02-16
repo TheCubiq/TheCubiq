@@ -48,5 +48,5 @@
 -->
   
 
-# <p  align="center"> ![:name](https://count.getloli.com/get/@TheCubiq) </p>
+# <p  align="center"> ![visitor counter](https://count.getloli.com/get/@TheCubiq) </p>
 
