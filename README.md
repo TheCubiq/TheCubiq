@@ -56,9 +56,9 @@
 
   patched, keeping, one day maybe..
 -->
-<!-- 
+
 ```math
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 goombafont;
 color:red;
 pointer-events:none;
@@ -71,7 +71,7 @@ width: 130vw;
 opacity: 0.5;
 background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
 ]{x0000}$}
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 goombafont;
 color:red;
 pointer-events:none;
@@ -84,7 +84,7 @@ backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
 mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
 ]{x0000}$}
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 goombafont;
 color:red;
 pointer-events:none;
@@ -96,7 +96,7 @@ background-size: cover;
 z-index: 99;
 backdrop-filter: hue-rotate(89deg);
 ]{x0000}$}
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 font-family: goombafont;
 position: fixed;
 inset: 0;
@@ -108,7 +108,7 @@ background-repeat: no-repeat;
 pointer-events: none;
 opacity: 0.5;
 ]{x0000}$}
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 font-family: goombafont;
 color:red;
 pointer-events: none;
@@ -116,7 +116,7 @@ position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
 ]{x0000}$}
-\ce{$\unicode[
+\ce{$&#x5C;unicode[
 goombafont;
 color: red;
 pointer-events: none;
