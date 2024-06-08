@@ -56,9 +56,8 @@
 
   patched, keeping, one day maybe..
 -->
-<!--
 ```math
-\ce{$&#x5C;unicode[
+\mmlToken{ms}[fontfamily="
 goombafont;
 color:red;
 pointer-events:none;
@@ -70,8 +69,9 @@ background-size: cover;
 width: 130vw;
 opacity: 0.5;
 background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
-]{x0000}$}
-\ce{$&#x5C;unicode[
+"]{}
+
+\mmlToken{ms}[fontfamily="
 goombafont;
 color:red;
 pointer-events:none;
@@ -83,8 +83,9 @@ background-size: cover;
 backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
 mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, black, transparent);
-]{x0000}$}
-\ce{$&#x5C;unicode[
+"]{}
+
+\mmlToken{ms}[fontfamily="
 goombafont;
 color:red;
 pointer-events:none;
@@ -95,8 +96,9 @@ object-fit: cover;
 background-size: cover;
 z-index: 99;
 backdrop-filter: hue-rotate(89deg);
-]{x0000}$}
-\ce{$&#x5C;unicode[
+"]{}
+
+\mmlToken{ms}[fontfamily="
 font-family: goombafont;
 position: fixed;
 inset: 0;
@@ -107,16 +109,18 @@ background-image: linear-gradient(calc(0.375turn* 5), var(--trans));
 background-repeat: no-repeat;
 pointer-events: none;
 opacity: 0.5;
-]{x0000}$}
-\ce{$&#x5C;unicode[
+"]{}
+
+\mmlToken{ms}[fontfamily="
 font-family: goombafont;
 color:red;
 pointer-events: none;
 position: fixed;
 inset: 0;
 backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
-]{x0000}$}
-\ce{$&#x5C;unicode[
+"]{}
+
+\mmlToken{ms}[fontfamily="
 goombafont;
 color: red;
 pointer-events: none;
@@ -129,6 +133,5 @@ background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
 background-position-x: center;
-]{x0000}$}
+"]{}
 ```
--->
