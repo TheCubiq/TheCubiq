@@ -56,7 +56,7 @@
 
   patched, keeping, one day maybe..
 -->
-
+<!--
 ```math
 \ce{$&#x5C;unicode[
 goombafont;
