@@ -103,7 +103,7 @@ madebycubiquwu;
 color: transparent;
 position: fixed;
 inset: 0;
-z-index: 100;
+z-index: 1000;
 font-size: 0.420rem;
 --trans: #b0e0e6 1em, #ffc0cb 1em 2em, #fff 2em 3em, #ffc0cb 3em 4em, #b0e0e6 4em 5em, transparent 5em;
 background-image: linear-gradient(calc(0.375turn* 5), var(--trans));
