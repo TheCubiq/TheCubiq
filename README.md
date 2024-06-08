@@ -53,7 +53,10 @@
 <!-- 
   gotta do it till it works 💀
   shoutout to @iGerman00 for showing me this <3
+
+  patched, keeping, one day maybe..
 -->
+<!-- 
 ```math
 \ce{$\unicode[
 goombafont;
@@ -128,3 +131,4 @@ opacity: 0.02;
 background-position-x: center;
 ]{x0000}$}
 ```
+-->
