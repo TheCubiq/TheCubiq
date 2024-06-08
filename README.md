@@ -75,7 +75,7 @@ background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/back
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
-z-index: -10;
+z-index: 999;
 position: fixed;
 inset:0;
 object-fit: cover;
