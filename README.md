@@ -48,7 +48,7 @@
 -->
   
 
-# <p  align="center"> ![visitor counter](https://count.getloli.com/get/@TheCubiq) ...visits</p>
+# <p  align="center"> [![visitor counter](https://count.getloli.com/get/@TheCubiq)]() ...visits</p>
 
 <!-- 
   gotta do it till it works 💀
